@@ -1,0 +1,10 @@
+C:\Users\Vasilije\Desktop\SIMS\SIMS\obj\Release\SIMS.csprojAssemblyReference.cache
+C:\Users\Vasilije\Desktop\SIMS\SIMS\obj\Release\MainWindow.g.cs
+C:\Users\Vasilije\Desktop\SIMS\SIMS\obj\Release\UI\Dialogs\View\BillView.g.cs
+C:\Users\Vasilije\Desktop\SIMS\SIMS\obj\Release\UI\Dialogs\View\IngredientView.g.cs
+C:\Users\Vasilije\Desktop\SIMS\SIMS\obj\Release\UI\Dialogs\View\MedicineView.g.cs
+C:\Users\Vasilije\Desktop\SIMS\SIMS\obj\Release\UI\Dialogs\View\UserView.g.cs
+C:\Users\Vasilije\Desktop\SIMS\SIMS\obj\Release\App.g.cs
+C:\Users\Vasilije\Desktop\SIMS\SIMS\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\Vasilije\Desktop\SIMS\SIMS\obj\Release\SIMS_MarkupCompile.cache
+C:\Users\Vasilije\Desktop\SIMS\SIMS\obj\Release\SIMS_MarkupCompile.lref

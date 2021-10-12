@@ -1,0 +1,5 @@
+1|1234567890|vasilije@gmail.com|123|Vasilije|Dojcinov|0646850671|Doctor|
+2|123456788888|aleksandar@gmail.com|123|Aleksandar|Dojcinov|0647012179|Pharmacists|
+3|111111234|danica@gmail.com|123|Danica|Dojcinov|0646850672|Patient|
+4|23456789|vasilije1@gmail.com|123|adasda|dfsdfs|324324|Patient|
+5|123123123|fdsfdfas@gmail.com|123|asd|asd|2341212|Patient|

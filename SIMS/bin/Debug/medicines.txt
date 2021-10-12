@@ -1,0 +1,4 @@
+3|brufen|brufen|100|4||True|True|False|4;23,
+3|bromazepam|bromazepam|1000|23||True|True|False|3;12,4;33,
+4|buscopan|buscopan|1234|15||True|True|False|2;23,
+5|asdas|asdasd|12343421|211||True|True|False|

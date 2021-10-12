@@ -1,0 +1,45 @@
+﻿using SIMS.Model;
+using SIMS.UI.Persistance;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace SIMS.Services
+{
+    public class UserService
+    {
+        private UserRepository repository = new UserRepository();
+
+        public IEnumerable<Entity> Search(string search, string sort)
+        {
+            return repository.Search(search, sort);
+        }
+
+        public IEnumerable<Entity> GetAll()
+        {
+            return repository.GetAll();
+        }
+
+        public void Save()
+        {
+            repository.Save();
+        }
+
+        public void Remove(Entity entity) 
+        {
+            repository.Remove(entity);
+        }
+
+        public User GetUserWithJMBG(string jmbg) 
+        {
+            return repository.GetUserWithJMBG(jmbg);
+        }
+
+        public User GetUserWithEmail(string email)
+        {
+            return repository.GetUserWithEmail(email);
+        }
+    }
+}
